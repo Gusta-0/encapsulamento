@@ -1,4 +1,4 @@
-package Encapsulamento;
+package encapsulamento;
 
 public class Elevador {
 
